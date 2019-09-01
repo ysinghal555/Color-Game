@@ -1,2 +1,2 @@
-# QR-Code-Generator
-This project will generate QR Code and scan QR code.
+# Color Game
+In this project you have to guess color with the help of RGB Combinations.
